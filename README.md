@@ -1,3 +1,11 @@
+> [!NOTE]
+> **Moved.** This is now `page/` in **[ponzgpt/hermes-contributions](https://github.com/ponzgpt/hermes-contributions)**, together
+> with the three other things I built around Hermes Agent. Live at
+> **<https://hermes-contributions.technoir.cloud/>**; `hermes-agent.technoir.cloud` now redirects there.
+>
+> This repository is archived and read-only. It is kept rather than deleted so that nothing
+> already linking here breaks.
+
 # Hermes Agent — landing page
 
 An unofficial landing page for [Hermes Agent](https://github.com/NousResearch/hermes-agent),
